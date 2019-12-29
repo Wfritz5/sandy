@@ -63,6 +63,10 @@ form {
     margin: auto;
 }
 
+#galleryPic {
+    border: .2rem solid rgb(15, 87, 15);
+}
+
 /* #me {
     transform: rotate(270deg);
   } */
