@@ -27,7 +27,9 @@ a:hover {
     background-color: white;
 }
 
-
+.about img {
+    margin-left: 30px;
+}
 
 /* landing page */
 
