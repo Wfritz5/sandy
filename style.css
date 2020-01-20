@@ -29,13 +29,12 @@ a:hover {
 
 .about img {
     width: 100%;
-    border-radius: 50%;
 }
 
 /* landing page */
 
 .home-inner {
-    background-image: url(img/sandyClasses.jpg);
+    background-image: url(img/contactbkgrd.jpg);
 }
 
 #contact {}
@@ -110,6 +109,10 @@ textarea {
 
 footer {
     background-image: url(img/sandyClasses.jpg);
+    background-repeat: no-repeat;
+    height: 1280;
+    width: 960;
+    background-size: cover;
     color: white;
     text-align: center;
 }
