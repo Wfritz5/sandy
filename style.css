@@ -9,9 +9,7 @@ a:hover {
 /* #funartistpage {
     background-color: aqua;
 } */
-#work {
-    margin-right: 50px;
-}
+
 
 /* Need to work on media queries */
 
@@ -60,17 +58,18 @@ a:hover {
 }
 
 .email {
-    width: 250px;
+    width: 100%;
     ;
 }
 
 .subject {
-    width: 250px;
+    width: 100%;
 }
 
 .message {
     height: 150px;
-    width: 250px;
+    width: 100%;
+
 }
 
 form {
@@ -128,8 +127,8 @@ textarea {
 footer {
     background-image: url(img/sandyClasses.jpg);
     background-repeat: no-repeat;
-    /* height: 1280;
-    width: 960; */
+    height: 1280;
+    width: 960;
     background-size: cover;
     color: white;
     text-align: center;
