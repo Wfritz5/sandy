@@ -98,10 +98,11 @@ form {
     padding-bottom: 1.6rem;
 }
 
-.btn-lg {
+.btn-lg,
+.btn-sm,
+.btn-md {
     border-width: medium;
     border-radius: 0;
-    padding: .6rem 1.3rem;
     font-size: 1.1rem;
 }
 
