@@ -6,6 +6,10 @@ a:hover {
     color: green;
 }
 
+/* #funartistpage {
+    background-color: aqua;
+} */
+
 /* Need to work on media queries */
 
 .navbar {
@@ -80,7 +84,7 @@ form {
     text-transform: uppercase;
 }
 
-.caption h1 {
+.caption h2 {
     font-size: 3.8rem;
     font-weight: 700;
     letter-spacing: .3rem;
