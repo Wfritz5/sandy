@@ -47,6 +47,13 @@ a:hover {
     color: white;
     text-align: center;
     display: flex;
+    background-color: #209cc4;
+}
+
+#socialmedia {
+    background-color: #209cc4;
+    border: .2rem solid white;
+    margin-top: 25px;
 }
 
 .email {
@@ -111,6 +118,8 @@ input,
 textarea {
     display: block;
 }
+
+
 
 footer {
     background-image: url(img/sandyClasses.jpg);
