@@ -118,9 +118,9 @@ form {
 .btn-md,
 .btn-xs {
     font-family: 'Aclonica', sans-serif;
-    border-width: medium;
+    border-width: small;
     border-radius: 0;
-    font-size: 1.1rem;
+    font-size: .9rem;
 }
 
 label,
