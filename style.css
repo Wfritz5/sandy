@@ -14,9 +14,10 @@ a:hover {
 /* Need to work on media queries */
 
 .navbar {
-    text-transform: uppercase;
+    font-family: 'Gochi Hand', cursive;
+    /* text-transform: uppercase; */
     font-weight: 700;
-    font-size: .9rem;
+    font-size: 1.9rem;
     letter-spacing: .1rem;
     background-color: rgba(0, 0, 0, 0.6) !important;
 }
@@ -95,6 +96,7 @@ form {
 }
 
 .caption h2 {
+    font-family: 'Gochi Hand', cursive;
     font-size: 3.8rem;
     font-weight: 700;
     letter-spacing: .3rem;
@@ -103,6 +105,7 @@ form {
 }
 
 .caption h3 {
+    font-family: 'Gochi Hand', cursive;
     font-size: 2rem;
     text-shadow: .1rem .1rem .5rem black;
     padding-bottom: 1.6rem;
@@ -111,6 +114,7 @@ form {
 .btn-lg,
 .btn-sm,
 .btn-md {
+    font-family: 'Aclonica', sans-serif;
     border-width: medium;
     border-radius: 0;
     font-size: 1.1rem;
@@ -132,4 +136,9 @@ footer {
     background-size: cover;
     color: white;
     text-align: center;
+}
+
+h3 {
+    font-family: 'Aclonica', sans-serif;
+
 }
