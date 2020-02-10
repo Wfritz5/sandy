@@ -50,6 +50,8 @@ a:hover {
     text-align: center;
     display: flex;
     background-color: #05416b;
+    font-family: 'Aclonica', sans-serif;
+
 }
 
 #socialmedia {
@@ -138,7 +140,10 @@ footer {
     text-align: center;
 }
 
-h3 {
+h3,
+h4,
+h5,
+p {
     font-family: 'Aclonica', sans-serif;
 
 }
