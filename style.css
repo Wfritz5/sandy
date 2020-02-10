@@ -115,7 +115,8 @@ form {
 
 .btn-lg,
 .btn-sm,
-.btn-md {
+.btn-md,
+.btm-xs {
     font-family: 'Aclonica', sans-serif;
     border-width: medium;
     border-radius: 0;
