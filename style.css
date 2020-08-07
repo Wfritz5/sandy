@@ -13,6 +13,7 @@ a:hover {
 
 /* Need to work on media queries */
 
+
 .navbar {
     font-family: 'Gochi Hand', cursive;
     /* text-transform: uppercase; */
@@ -40,7 +41,7 @@ a:hover {
 /* landing page */
 
 .home-inner {
-    background-image: url(img/contactbkgrd.jpg);
+    background-image: url(img/sandyClasses.jpg);
 }
 
 #contact {}
